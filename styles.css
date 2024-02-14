@@ -93,7 +93,7 @@ li {
     font-size: 2.5em;
     /* transform: translateY(-50vh); */
     padding: 10px 150px 10px 20px;
-    font-weight: 800;
+    font-weight: 600;
     color: white;
     background-color: #EE3A43;
 }
@@ -189,10 +189,12 @@ li {
 .contact {
     margin-top: 50px;
     margin-bottom: 50px;
-    font-size: .8em;
-    text-align: center;
-    font-weight: 800;
     color: #0A2034;
+}
+
+.contact h1 {
+    font-weight: 600;
+    text-align: center;
 }
 
 .footer {
